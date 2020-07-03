@@ -1,6 +1,4 @@
 import pygame
-
-
 class Setting():
     def __init__(self):
         self.screen_widht=1200
